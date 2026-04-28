@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="poster" src="https://github.com/user-attachments/assets/e6f2de7b-757b-4ad2-91af-6851e140c462" />
 # 🍽️ AI-Based Smart Food Waste Reduction System
 
 An AI-powered system to predict food demand, identify waste risk, and recommend actions to reduce food waste in supply chains.
